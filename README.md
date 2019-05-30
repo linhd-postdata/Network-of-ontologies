@@ -1,6 +1,6 @@
 # Network-of-ontologies
-Network of ontologies for European Poetry  covers all aspects concerning poetic works, their manifestations, their transmission and the classes and properties necessary for the representation of information coming from structural, prosodic and literary analysis and related aspects such as musical characteristics and elements present in manifestations such as illustrations.
-	 	<p>From this process the following ontologies have been identified as part of the network of ontologies for the domain of European poetry</p>
+<a href="http://postdata-prototype.linhd.uned.es/ontology.php" target="new">Network of ontologies for European Poetry</a>  covers all aspects concerning poetic works, their manifestations, their transmission and the classes and properties necessary for the representation of information coming from structural, prosodic and literary analysis and related aspects such as musical characteristics and elements present in manifestations such as illustrations.
+	 	<p>The process of constructing the network is described in <a href="http://postdata-prototype.linhd.uned.es/ontology.php" target="new">this link</a> and has resulted in the following ontologies:</p>
 	
 		 
 	  
