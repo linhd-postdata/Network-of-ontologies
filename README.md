@@ -4,7 +4,7 @@ Network of ontologies for European Poetry  covers all aspects concerning poetic 
 	
 		 
 	  
-	<h4> <a href="http://postdata.linhd.uned.es/ontology/POSTDATA-core/">1. postdata-core ontology</a></h4>
+<h4> <a href="http://postdata.linhd.uned.es/ontology/POSTDATA-core/">1. postdata-core ontology</a></h4>
 	<p>This ontology covers with aspects related to poetic works and their manifestations.</p>
 <P>The classes PoeticWork, Redaction and Ensemble have been defined for this purpose.</P>
 <P>Since it is the core or central ontology of the network, classes that are not typical of one of the domains related to poetry but that represent a transversal knowledge have also been incorporated. These classes complete the relevant information not only for the classes of the core ontology but also for other ontologies of a more specific domain. </P>
@@ -25,7 +25,7 @@ From the foregoing, it has been considered appropriate to propose the creation o
 <p>In this module, the classes and properties referring to the classes and properties that have to do with the textual structuring of the manifestations of the works are modelled. 
 The classes that compose it are: Syllable, Line, Stanza, Word and Punctuation, these last two belong to a LexicalUnit hierarchy.  </p>
 
-			 <h4> <a href="#">6. postdata-prosodicElements ontology</a>(in process)</h4>
+<h4> <a href="#">6. postdata-prosodicElements ontology</a>(in process)</h4>
 			 <p>In this module, the classes and properties that model the information necessary for the prosodic analysis of a poetic text are modeled. As in other modules, a hierarchy of classes has been defined that models the patterns of different levels and that are oriented to define the recurrence of the pattern followed by the stanzas, the lines and the poetic work itself. 
 The classes that form this module are LinePattern, StanzaPattern, Work Pattern, Métrical Encoding, Symbol, RhymeMatch. </p>
 <h4> <a href="#">7. postdata-music</a>(in process)</h4>
